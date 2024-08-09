@@ -3,7 +3,7 @@
 💻 Estudante de Engenharia de Software |  🚀 Iniciando...
 
 ### Sobre Mim
-- 🌍 Atualmente estudando C e C++ e Python.
+- 🌍 Atualmente estudando C, C++ e Python.
 
 ### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ronald-carvalho-856969278/)
