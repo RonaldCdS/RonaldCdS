@@ -1,9 +1,9 @@
-# Olá! 👋 <Meu nome é Ronald>
+# Olá! 👋 
 
 💻 Estudante de Engenharia de Software |  🚀 Iniciando...
 
 ### Sobre Mim
-- 🌍 Atualmente estudando C, C++ e Python.
+- 🌍 Atualmente estudando C, C++ e Javascript.
 
 ### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ronald-carvalho-856969278/)
@@ -16,7 +16,7 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=c-sharp&logoColor=239120)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
 
 ### Estatísticas GitHub:
 
