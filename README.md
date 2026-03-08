@@ -18,6 +18,8 @@ Meu objetivo é me tornar um QA Engineer focado em automação e conseguir uma o
 ### Linguagens e Ferramentas:
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
 
 ### Estatísticas GitHub:
