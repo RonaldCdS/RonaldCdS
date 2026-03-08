@@ -1,9 +1,13 @@
 # Olá! 👋 
 
-💻 Estudante de Engenharia de Software |  🚀 Iniciando...
+💻 Estudante de Engenharia de Software |  5° Período...
 
 ### Sobre Mim
-- 🌍 Atualmente estudando Python e Cloud.
+- 👨‍💻 QA Engineer in Progress
+
+Olá! Meu nome é Ronald e estou estudando Qualidade de Software (QA) com foco em testes manuais, automação com Python e bancos de dados SQL.
+
+Meu objetivo é me tornar um QA Engineer focado em automação e conseguir uma oportunidade de estágio ou posição júnior na área de tecnologia.
 
 ### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ronald-carvalho-856969278/)
@@ -13,10 +17,8 @@
 
 ### Linguagens e Ferramentas:
 
-![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
+
 
 ### Estatísticas GitHub:
 
